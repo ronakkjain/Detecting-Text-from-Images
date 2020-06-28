@@ -4,8 +4,8 @@ This project is about extracting text from images and speaking up that text for 
 # Procedure:
 
 For extracting text -->
-Import libraries
-Load the model
+1) Import libraries
+2) Load the model
 Read the image
 Convert the image from RGB to Grayscale
 Perform thresholding
