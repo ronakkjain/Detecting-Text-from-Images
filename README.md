@@ -1,5 +1,5 @@
 # Detecting-Text-and-TexttoSpeech
-This project is about extracting text from images and speaking up that text for the childrens to understand properly. Notebook as code and theory explaination too.
+This project is about extracting text from images using pytesseract and speaking up that text by Text-to-Speech API. Notebook as code and theory explaination too.
 
 # Procedure:
 
